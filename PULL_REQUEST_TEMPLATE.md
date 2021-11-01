@@ -15,6 +15,7 @@ Bug fixes and new features should include tests and possibly benchmarks.
 - [ ] `npm run test`, or similar passes
 - [ ] tests and/or benchmarks are included
 - [ ] documentation is changed or added
+- [ ] If architectural changes, ADR records have been added using [adr-tools](https://github.com/npryce/adr-tools)
 - [ ] commit message follows [commit guidelines](https://github.com/strnordic/.github/blob/main/commit-message-guidelines.md)
 
 <!-- _NOTE: these things are not required to open a PR and can be done afterwards / while the PR is open._ -->
