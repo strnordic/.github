@@ -25,3 +25,7 @@ Bug fixes and new features should include tests and possibly benchmarks.
 
 ### Description of change
 <!-- Please provide a description of the change here. -->
+
+
+### How to test
+<!-- Please provide a description of how to test the changes manually for the PR reviewer. -->
